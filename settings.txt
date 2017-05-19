@@ -1,0 +1,13 @@
+[{"settings": {
+	"database": {
+		"user": "<username>",
+		"password": "<dbpassword>",
+		"hostname": "<dbhost>",
+		"database": "<dbname>"
+	},
+	"updateinterval": 14400,
+	"createclasspage": 1,
+	"pathToclasses": "/var/www/html/classes.html",
+	"ranks": 15000,
+	"xhraccess": "*"
+}}]
